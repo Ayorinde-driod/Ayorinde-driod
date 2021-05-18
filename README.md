@@ -2,7 +2,7 @@
 - 👀 I’m interested in Developing Sustainable Learning Tools
 - 🌱 I’m currently learning how to code in Github
 - 💞️ I’m looking to collaborate on how to create techniques for Sustainable learning for African Students
-- 📫 How to reach me 
+- 📫 How to reach me https://github.com/Ayorinde-driod
 
 <!---
 Ayorinde-driod/Ayorinde-driod is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
